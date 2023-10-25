@@ -10,7 +10,7 @@
      <img src="https://github.com/Chumsy0725/SPSD-ViT/blob/main/Resources/results.png" > 
 </p>
 
-We report an extensive comparison with the existing SOTA methods in DG literature on DR datasets as shown in Table 1. We believe that our experiments will offer insights into how the existing SOTA DG methods on natural datasets behave on DR datasets. Moreover, we compare our proposed method with existing SOTA methods in the DR context. We report ERM results with both CNN and ViT backbones as a baseline as it shows competitive performance against many existing DG methods. Therefore, we include ERM method with both CNN and ViT backbones as a baseline. We achieve a notable \textbf{+2.1\%} increase in (overall) average accuracy over the second-best contestant. 
+We report an extensive comparison with the existing SOTA methods in DG literature on DR datasets as shown in Table 1. We believe that our experiments will offer insights into how the existing SOTA DG methods on natural datasets behave on DR datasets. Moreover, we compare our proposed method with existing SOTA methods in the DR context. We report ERM results with both CNN and ViT backbones as a baseline as it shows competitive performance against many existing DG methods. Therefore, we include ERM method with both CNN and ViT backbones as a baseline. We achieve a notable *+2.1%* increase in (overall) average accuracy over the second-best contestant. 
 
 ### Installation and Set-up
 
